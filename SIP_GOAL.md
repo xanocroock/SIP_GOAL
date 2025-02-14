@@ -1,9 +1,9 @@
-# **\ud83d\udccc SIP Automation Platform – Project Summary**
+# ** SIP Automation Platform – Project Summary**
 
-## **\ud83d\udccc Project Overview**
+## ** Project Overview**
 We are building a **SIP Automation Platform** that allows users to **bring their own SIP credentials** and access advanced call management features such as **calling, conferencing, IVR, call recording, and live monitoring**.
 
-### **\ud83c\udfaf Key Objectives**
+### ** Key Objectives**
 ✅ Users can register **their own SIP credentials** (SIP server, username, password).  
 ✅ Users can **manage multiple SIP profiles** (e.g., different agents or departments).  
 ✅ Users can **make and receive SIP calls** via our platform.  
@@ -14,7 +14,7 @@ We are building a **SIP Automation Platform** that allows users to **bring their
 
 ---
 
-## **\ud83d\udee0\ufe0f Tech Stack**
+## **Tech Stack**
 | **Component**      | **Technology**                     | **Purpose**                              |
 |--------------------|------------------------------------|------------------------------------------|
 | **Frontend**       | *React / Vue.js / HTMX (optional)* | User dashboard                           |
@@ -28,7 +28,7 @@ We are building a **SIP Automation Platform** that allows users to **bring their
 
 ---
 
-## **\ud83d\udda5\ufe0f Architecture Overview**
+## ** Architecture Overview**
 1. **User registers SIP credentials** → Stored securely in the database.
 2. **Users can add multiple SIP profiles** → Each profile represents an agent or SIP account.
 3. **Django API communicates with FusionPBX** → API calls to start calls, manage IVR, etc.
@@ -38,7 +38,7 @@ We are building a **SIP Automation Platform** that allows users to **bring their
 
 ---
 
-## **\ud83d\udddd Core Features & Use Cases**
+## ** Core Features & Use Cases**
 ### **1️⃣ User Management**
 ✅ Users can **sign up and log in** securely.  
 ✅ Users can **register multiple SIP profiles** in the system.  
@@ -86,7 +86,7 @@ We are building a **SIP Automation Platform** that allows users to **bring their
 
 ---
 
-## **\ud83d\udcaa API Endpoints (Django REST API)**
+##  API Endpoints (Django REST API)**
 | **Method** | **Endpoint**                | **Description**                             |
 |------------|-----------------------------|---------------------------------------------|
 | `POST`     | `/api/add-sip-profile/`     | Add a SIP profile for the user              |
@@ -107,12 +107,12 @@ We are building a **SIP Automation Platform** that allows users to **bring their
 
 ---
 
-## **\ud83d\ude80 Next Steps**
+## ** Next Steps**
 1️⃣ **Set up FusionPBX** and enable API access.  
 2️⃣ **Build Django API endpoints** to interact with FusionPBX.  
 3️⃣ **Develop user authentication & SIP credential management.**  
 4️⃣ **Implement core call functions (calling, IVR, conferencing).**  
-5️⃣ **Deploy and test! \ud83d\ude80**  
+5️⃣ **Deploy and test!   
 
 ---
 
