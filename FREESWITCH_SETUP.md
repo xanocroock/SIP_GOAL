@@ -111,6 +111,3 @@ The developer must ensure:
 - **All required modules are installed.**
 - **Security best practices are followed.**
 - **The setup is well-documented for future modifications.**
-
-For any clarifications, refer to **FSW and FSW_PLAN** or contact the SIP GOAL UC project team.
-
