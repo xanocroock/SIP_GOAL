@@ -2,7 +2,7 @@
 
 ## **Project Requirements**
 
-The SIP GOAL UC project requires a **fully configured FreeSWITCH server** with all necessary and potentially useful modules installed. The server must be **efficient, secure, and stable** while allowing for **easy customization** if additional modules are needed in the future.
+The project requires a **fully configured FreeSWITCH server** with all necessary and potentially useful modules installed. The server must be **efficient, secure, and stable** while allowing for **easy customization** if additional modules are needed in the future.
 
 This document outlines the key points to cover and document the FreeSWITCH setup in a MD file.
 
@@ -10,7 +10,7 @@ This document outlines the key points to cover and document the FreeSWITCH setup
 
 ## **1. Required FreeSWITCH Modules**
 
-All the following modules must be installed to support SIP GOAL UC. The setup should also allow for **future module adjustments** if necessary.
+All the following modules must be installed. The setup should also allow for **future module adjustments** if necessary.
 
 ### **Essential Modules**
 
