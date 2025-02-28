@@ -4,7 +4,7 @@
 
 The SIP GOAL UC project requires a **fully configured FreeSWITCH server** with all necessary and potentially useful modules installed. The server must be **efficient, secure, and stable** while allowing for **easy customization** if additional modules are needed in the future.
 
-This document outlines the exact steps the developer must follow to set up FreeSWITCH correctly.
+This document outlines the key points to cover and document the FreeSWITCH setup in a MD file.
 
 ---
 
